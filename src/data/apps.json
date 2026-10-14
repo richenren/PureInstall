@@ -1,0 +1,102 @@
+[
+  {
+    "id": "7zip",
+    "name": "7-Zip",
+    "wingetId": "7zip.7zip",
+    "category": "系统工具",
+    "description": "轻量、开源的压缩与解压工具。",
+    "homepage": "https://www.7-zip.org/",
+    "aliases": ["7-Zip"],
+    "recommended": true
+  },
+  {
+    "id": "everything",
+    "name": "Everything",
+    "wingetId": "voidtools.Everything",
+    "category": "系统工具",
+    "description": "高速本地文件名搜索工具。",
+    "homepage": "https://www.voidtools.com/",
+    "aliases": ["Everything"],
+    "recommended": true
+  },
+  {
+    "id": "powertoys",
+    "name": "Microsoft PowerToys",
+    "wingetId": "Microsoft.PowerToys",
+    "category": "系统工具",
+    "description": "微软官方 Windows 效率工具集合。",
+    "homepage": "https://github.com/microsoft/PowerToys",
+    "aliases": ["PowerToys", "Microsoft PowerToys"],
+    "recommended": true
+  },
+  {
+    "id": "vlc",
+    "name": "VLC media player",
+    "wingetId": "VideoLAN.VLC",
+    "category": "影音",
+    "description": "开源、跨平台的通用媒体播放器。",
+    "homepage": "https://www.videolan.org/vlc/",
+    "aliases": ["VLC media player", "VLC"],
+    "recommended": true
+  },
+  {
+    "id": "sumatrapdf",
+    "name": "SumatraPDF",
+    "wingetId": "SumatraPDF.SumatraPDF",
+    "category": "办公",
+    "description": "轻量的 PDF、EPUB、MOBI 等文档阅读器。",
+    "homepage": "https://www.sumatrapdfreader.org/",
+    "aliases": ["SumatraPDF"],
+    "recommended": true
+  },
+  {
+    "id": "firefox",
+    "name": "Mozilla Firefox",
+    "wingetId": "Mozilla.Firefox",
+    "category": "浏览器",
+    "description": "开源浏览器，适合作为 Chrome / Edge 之外的独立选择。",
+    "homepage": "https://www.mozilla.org/firefox/",
+    "aliases": ["Mozilla Firefox", "Firefox"],
+    "recommended": true
+  },
+  {
+    "id": "chrome",
+    "name": "Google Chrome",
+    "wingetId": "Google.Chrome",
+    "category": "浏览器",
+    "description": "常用 Chromium 浏览器。",
+    "homepage": "https://www.google.com/chrome/",
+    "aliases": ["Google Chrome"],
+    "recommended": false
+  },
+  {
+    "id": "notepadpp",
+    "name": "Notepad++",
+    "wingetId": "Notepad++.Notepad++",
+    "category": "开发工具",
+    "description": "轻量文本与代码编辑器。",
+    "homepage": "https://notepad-plus-plus.org/",
+    "aliases": ["Notepad++"],
+    "recommended": true
+  },
+  {
+    "id": "vscode",
+    "name": "Visual Studio Code",
+    "wingetId": "Microsoft.VisualStudioCode",
+    "category": "开发工具",
+    "description": "微软出品的跨平台代码编辑器。",
+    "homepage": "https://code.visualstudio.com/",
+    "aliases": ["Microsoft Visual Studio Code", "Visual Studio Code"],
+    "recommended": true
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "wingetId": "Git.Git",
+    "category": "开发工具",
+    "description": "主流分布式版本控制工具。",
+    "homepage": "https://git-scm.com/",
+    "aliases": ["Git"],
+    "recommended": true
+  }
+]
